@@ -1,0 +1,5 @@
+name: adam_mid
+type: Adam
+lr: 1e-3
+weight_decay: 0.0
+betas: [0.9, 0.999]

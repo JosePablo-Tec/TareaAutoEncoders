@@ -1,0 +1,7 @@
+name: ssim_l1
+type: SSIMLoss_L1
+weight_ssim: 0.5
+weight_l1: 0.5
+window_size: 11
+sigma: 1.5
+data_range: 1.0

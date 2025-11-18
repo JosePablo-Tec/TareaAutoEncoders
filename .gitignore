@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!imagenes_generativas.ipynb
+!cable/
+!capsule/
+!screw/
+!transistor/

@@ -1,7 +1,6 @@
-name: ssim_l1
-type: SSIMLoss_L1
-weight_ssim: 0.5
-weight_l1: 0.5
+type: SSIM_L1
+name: "SSIM+L1"
 window_size: 11
 sigma: 1.5
 data_range: 1.0
+l1_weight: 0.1

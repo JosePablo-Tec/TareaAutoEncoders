@@ -1,6 +1,4 @@
-name: unet
 in_channels: 3
 base_channels: 32
 depth: 4
-use_batch_norm: true
-dropout_rate: 0.0
+latent_dim: 128
